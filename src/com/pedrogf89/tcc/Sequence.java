@@ -1,3 +1,4 @@
+package com.pedrogf89.tcc;
 
 
 	public class Sequence {
