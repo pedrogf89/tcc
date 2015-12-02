@@ -17,12 +17,13 @@ class Motor {
 
 	}
 }
-	class Veiculo extends Motor {
-		void chave(boolean liga) {
-			if (liga) {
-				System.out.println("Veiculo ligado");
-			} else {
-				System.out.println("Veiculo desligado");
-			}
+
+class Veiculo extends Motor {
+	void chave(boolean liga) {
+		if (liga) {
+			System.out.println("Veiculo ligado");
+		} else {
+			System.out.println("Veiculo desligado");
 		}
 	}
+}
