@@ -3,6 +3,7 @@ package com.pedrogf89.tcc.cap4;
 /*Codigo com declaracoes estranhas e para verificar a ordem de incremento
 
 */
+import java.lang.*;
 
 public class $_o0o_$ {
 	public static void main(String[] args) {
